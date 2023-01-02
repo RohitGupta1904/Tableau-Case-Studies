@@ -1,4 +1,5 @@
 📑 Case Studies:
+
 •	Laptop Sale Analysis
 
 •	Sports Equipment Sales
