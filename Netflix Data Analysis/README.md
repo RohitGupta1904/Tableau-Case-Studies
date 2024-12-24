@@ -26,8 +26,8 @@ A captivating area chart illustrates the temporal evolution of Netflix content. 
 
 ## How to Use the Dashboard:
 ### Interact with Filters:
-**.**Leverage filters to tailor the dashboard to your specific interests. Filter by genre, country, or release year to drill down into the data.
+**.** Leverage filters to tailor the dashboard to your specific interests. Filter by genre, country, or release year to drill down into the data.
 ### Hover for Details:
-**.**Hover over data points to reveal detailed information. This feature enhances the user experience by providing on-the-fly insights.
+**.** Hover over data points to reveal detailed information. This feature enhances the user experience by providing on-the-fly insights.
 ### Dynamic Year Selector:
-**.**Adjust the year selector to explore how Netflix's content landscape has transformed over the years.
+**.** Adjust the year selector to explore how Netflix's content landscape has transformed over the years.
