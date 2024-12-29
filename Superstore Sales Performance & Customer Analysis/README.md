@@ -1,6 +1,8 @@
 # Tableau User Story | Sales Performance
 ## Intorduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
+![Uploading Screenshot (4).png…]()                                                     ![Uploading Screenshot (5).png…]()
+
 
 ## Sales Dashboard | Requirements
 ### Dashboard Purpose
