@@ -2,6 +2,8 @@
 ## Intorduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
 
+Tableau Public Link: https://public.tableau.com/app/profile/rohit.gupta6093
+
 ![Screenshot (4)](https://github.com/user-attachments/assets/240076cf-1949-482d-b4c3-837aacf97107)
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/bc43ebca-a03a-405e-b6cf-dce428ca14ea)    
