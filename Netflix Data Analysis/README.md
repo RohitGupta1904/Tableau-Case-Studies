@@ -6,7 +6,7 @@ https://public.tableau.com/app/profile/rohit.gupta6093
 
 
 ## Introduction
-Welcome to the Netflix-Tableau-Dashboard project, explore the dynamic landscape of Netflix's content library with our meticulously crafted Tableau dashboard. Gain valuable insights into the distribution of movies and TV shows, regional production statistics, audience ratings, popular genres, and the evolving trends over the years.
+Welcome to the Netflix-Tableau-Dashboard project, explore the dynamic landscape of Netflix's content library with a meticulously crafted Tableau dashboard. Gain valuable insights into the distribution of movies and TV shows, regional production statistics, audience ratings, popular genres, and the evolving trends over the years.
 
 ## Key Visualizations:
 ### 1) Content Distribution Breakdown::
